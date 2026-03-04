@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "id": "bat_cave",
+      "sentence": "The cave bat flew over the bridge.",
+      "target_token": "bat",
+      "correct_cluster": "Animals",
+      "file": "bat_cave.json"
+    },
+    {
+      "id": "bat_swing",
+      "sentence": "He swung the wooden bat at the pitch.",
+      "target_token": "bat",
+      "correct_cluster": "Sports",
+      "file": "bat_swing.json"
+    },
+    {
+      "id": "bank_deposit",
+      "sentence": "She deposited her savings at the bank.",
+      "target_token": "bank",
+      "correct_cluster": "Finance",
+      "file": "bank_deposit.json"
+    },
+    {
+      "id": "bank_river",
+      "sentence": "They rested on the grassy bank of the river.",
+      "target_token": "bank",
+      "correct_cluster": "Nature",
+      "file": "bank_river.json"
+    },
+    {
+      "id": "crane_steel",
+      "sentence": "The crane lifted the steel beam into place.",
+      "target_token": "crane",
+      "correct_cluster": "Construction",
+      "file": "crane_steel.json"
+    },
+    {
+      "id": "crane_marsh",
+      "sentence": "The tall crane waded through the marsh.",
+      "target_token": "crane",
+      "correct_cluster": "Birds",
+      "file": "crane_marsh.json"
+    },
+    {
+      "id": "spring_hot",
+      "sentence": "The hot spring bubbled up from the rocks.",
+      "target_token": "spring",
+      "correct_cluster": "Geology",
+      "file": "spring_hot.json"
+    }
+  ]
+}
